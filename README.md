@@ -13,7 +13,13 @@ Additionally it is attached in another file called DescriptionDataCoSupplyChain.
 
 https://data.mendeley.com/datasets/8gx2fvg2k6/5
 
-We try to know to ask some questions and know some information about the data : 
+The first file CSV is the data which I made data cleaning on by file IPYE ('supply_chain_data_cleaning')
+the second file CSV is cleaning data and I made EDA on it by file IPYE ('supply_chain') 
+
+The two files data on WinRAR. 
+
+
+I try to know to ask some questions and learn some information about the data : 
 1- How many late delivery?
 2-The Payment Type Distribution
 3- Payment wise delivery status
